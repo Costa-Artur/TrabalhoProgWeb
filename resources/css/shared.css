@@ -1,0 +1,10 @@
+body {
+    width: 100vw;
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--fundo);
+}
+
+:root {
+    --destaque: #828282;
+    --fundo: #dbdbdb;
+}

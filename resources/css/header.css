@@ -1,0 +1,9 @@
+.cabecalho {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: var(--destaque);
+    font-size: 4vmin;
+    padding: 4vh 0;
+    font-weight: 700;
+}
